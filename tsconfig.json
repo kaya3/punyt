@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outFile": "punyt.js",
+        "target": "ESNext",
+        "lib": ["ESNext", "DOM"],
+        "declaration": true,
+    },
+    "include": ["punyt.ts"],
+}
+
